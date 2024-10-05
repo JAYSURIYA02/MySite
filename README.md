@@ -3,9 +3,7 @@
 
 
 
-
-<p style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50;">!)![moon](https://github.com/user-attachments/assets/d2a17c97-00fb-4343-8ada-4c4ca677f597)
-
+![moon](https://github.com/user-attachments/assets/8cb504d2-e601-4406-906f-685fd8aff23e)
 
 Currently a B.Tech student at IIIT Sri City . I'm all about tech , creativity, AI Enthusiast, and music lover. 
 
