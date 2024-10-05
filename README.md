@@ -3,9 +3,10 @@
 
 
 
+![Path](https://github.com/user-attachments/assets/3f14c82b-3161-406f-8795-4c36db0c6256)
 
 
-<p style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50;">![WhatsApp Image 2024-10-05 at 19 32 46_0888e271](https://github.com/user-attachments/assets/eaa74cb8-3e6a-4d51-8af9-1f425ffa15ce)
+<p style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50;">!)
 
 Currently a B.Tech student at IIIT Sri City . I'm all about tech , creativity, AI Enthusiast, and music lover. 
 
