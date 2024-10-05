@@ -3,9 +3,10 @@
 
 
 
-![petal park](https://github.com/user-attachments/assets/8a8e5f10-f191-4e52-a958-33ad290ebc69)
 
-<p style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50;">
+
+<p style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50;">![WhatsApp Image 2024-10-05 at 19 32 46_0888e271](https://github.com/user-attachments/assets/eaa74cb8-3e6a-4d51-8af9-1f425ffa15ce)
+
 Currently a B.Tech student at IIIT Sri City . I'm all about tech , creativity, AI Enthusiast, and music lover. 
 
 </p>
