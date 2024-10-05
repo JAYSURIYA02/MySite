@@ -3,10 +3,9 @@
 
 
 
-![Path](https://github.com/user-attachments/assets/3f14c82b-3161-406f-8795-4c36db0c6256)
 
+<p style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50;">!)![moon](https://github.com/user-attachments/assets/d2a17c97-00fb-4343-8ada-4c4ca677f597)
 
-<p style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50;">!)
 
 Currently a B.Tech student at IIIT Sri City . I'm all about tech , creativity, AI Enthusiast, and music lover. 
 
